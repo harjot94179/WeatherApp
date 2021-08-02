@@ -1,6 +1,6 @@
-# Weather App in Vanilla Javascript
+# Weather App in Javascript
 
-This is a cool weather app made in vanilla (pure) Javascript.
+This is a cool weather app made in Javascript.
 
 In this app, I have fetched openweathermap.org API for current weather report.
 
